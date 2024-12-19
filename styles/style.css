@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", serif;
+}
+
+.bg{
+    background-image: url(../images/arroz-opacity.png);
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+
+.bg-receita{
+    background-color: #E4E4E8;
+    width: 33%;
+    margin: auto;
+    padding: 1rem;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin-top: 1rem;
+    border-radius: 0.3rem;
+    color: #27272D;
+    line-height: 2rem;
+
+}
+
+.espacamento{
+    margin-left: 3.5rem;
+    margin-right: 2rem;
+    margin-top: 0.8rem;
+}
+
+
+
+.legend{
+    opacity: 1;
+    width: 80%;
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+}
+
+.footer{
+    text-align: center;
+    padding: 2rem;
+}
+
+
